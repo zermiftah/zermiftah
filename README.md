@@ -1,4 +1,4 @@
-[![](https://github.com/zermiftah/zermiftah/blob/main/profile.gif)]
+[(https://github.com/zermiftah/zermiftah/blob/main/profile.gif)]
 
 
 [![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
