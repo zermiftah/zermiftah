@@ -1,7 +1,7 @@
 ![](https://github.com/zermiftah/zermiftah/blob/main/profile.gif)
 
 
-[![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
+[![Miftah Linkedin](https://www.mhe-sme.org/wp-content/uploads/2017/12/linkedin-icon.png)]([https://www.adamalston.com/](https://www.linkedin.com/in/muhammad-miftahudin-69b268219/))
 
 **Languages I have used**
 
