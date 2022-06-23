@@ -1,4 +1,4 @@
-![](https://github.com/zermiftah/zermiftah/blob/main/profile.gif)
+[](https://github.com/zermiftah/zermiftah/blob/main/profile.gif)
 
 
 **Languages I have used**
